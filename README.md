@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on property management
-- 🌱 I’m currently learning note taking with [Obsidian](https://obsidian.md/) & [Postgresql](https://www.postgresql.org/)
+- 🌱 I’m currently learning note taking with apple notes & [Postgresql](https://www.postgresql.org/)
 
 <!--
 **SebastienElet/sebastienelet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
