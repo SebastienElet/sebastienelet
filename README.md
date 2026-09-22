@@ -10,3 +10,5 @@ I care about code that’s easy to understand, test, and maintain — including 
 - **Knowledge base** — organizing what I learn in Obsidian and exploring how agents can use that context.
 
 At home in a terminal, with Neovim and PostgreSQL close by.
+
+[LinkedIn](https://www.linkedin.com/in/sebastienelet/)
