@@ -22,4 +22,4 @@ I care about code that’s easy to understand, test, and maintain — including 
 
 At home in a terminal, with Neovim and PostgreSQL close by.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/sebastienelet/)
+🔗 [LinkedIn](https://www.linkedin.com/in/sebastienelet/) · [@sebastienelet](https://x.com/sebastienelet) · [Email](mailto:sebastien@elet.fr) · [Blog](https://sebastien.elet.fr)
