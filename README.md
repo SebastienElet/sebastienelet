@@ -9,6 +9,12 @@ I care about code that’s easy to understand, test, and maintain — including 
 - [hoklims/semctx](https://github.com/hoklims/semctx) — contributor. Reads TypeScript Git diffs to report affected exported contracts, declared rules, and tests, with PASS / WARN / BLOCK verdicts for Git hooks, CI, or coding agents. Runs locally, without an LLM.
 - [SebastienElet/dotfiles](https://github.com/SebastienElet/dotfiles) — agent tooling, shared skills, and workflows.
 
+## How I work
+
+- Parallel coding agents (Codex), orchestrated with [herdr](https://herdr.dev).
+- Each task gets its own Git worktree, named after the issue.
+- One PR per issue.
+
 ## Current work
 
 - **Agent tooling** — refining project memory and development workflows for coding agents.
